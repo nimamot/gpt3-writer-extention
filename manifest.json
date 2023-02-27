@@ -1,6 +1,6 @@
 {
   "name": "Magic Email Generator",
-  "description": "nstantly generate well-written emails by simply typing your message",
+  "description": "instantly generate well-written emails replies by simply highlighting the email you'd like to reply to",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
