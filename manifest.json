@@ -1,6 +1,6 @@
 {
-  "name": "GPT-3 Writer",
-  "description": "Write a blog post in the style of your favorite thinker anywhere!",
+  "name": "Magic Email Generator",
+  "description": "nstantly generate well-written emails by simply typing your message",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
@@ -11,6 +11,11 @@
   },
   "action": {
     "default_popup": "index.html",
-    "default_title": "Generate blog post"
-  }
+    "default_title": "Generate Email"
+  },
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "storage"
+  ]
 }
